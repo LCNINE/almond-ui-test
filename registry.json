@@ -14,8 +14,8 @@
     "tailwind-merge"
   ],
   "registries": {
-    "almond-ui": {
-      "url": "https://raw.githubusercontent.com/LCNINE/almond-ui-test/main/registry/index.json"
+    "almond-ui-test": {
+      "url": "https://raw.githubusercontent.com/LCNINE/almond-ui-test/main/registry"
     }
   },
   "tailwind": {
