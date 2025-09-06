@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "name": "almond-ui",
+  "type": "registry:ui",
+  "description": "Almond UI - A modern design system built with React and Tailwind CSS",
+  "dependencies": [
+    "@radix-ui/react-label",
+    "@radix-ui/react-radio-group",
+    "@radix-ui/react-slot",
+    "@radix-ui/react-switch",
+    "class-variance-authority",
+    "clsx",
+    "lucide-react",
+    "tailwind-merge"
+  ],
+  "registries": {
+    "almond-ui": {
+      "url": "https://raw.githubusercontent.com/LCNINE/almond-ui/feature/shadcn-registry/registry"
+    }
+  },
+  "tailwind": {
+    "config": {
+      "plugins": []
+    }
+  },
+  "cssVars": {
+    "light": {},
+    "dark": {}
+  },
+  "categories": [
+    "buttons",
+    "forms",
+    "base",
+    "products",
+    "carts",
+    "orders",
+    "wishs",
+    "system",
+    "tags",
+    "toggle"
+  ]
+}

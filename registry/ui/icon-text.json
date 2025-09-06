@@ -1,0 +1,20 @@
+{
+  "name": "icon-text",
+  "type": "registry:ui",
+  "dependencies": [
+    "lucide-react",
+    "clsx",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "files": [
+    {
+      "path": "components/ui/icon-text.tsx",
+      "type": "registry:ui",
+      "target": "components/ui/icon-text.tsx"
+    }
+  ],
+  "tailwind": {
+    "config": {}
+  }
+}

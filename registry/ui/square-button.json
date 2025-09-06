@@ -1,0 +1,16 @@
+{
+  "name": "square-button",
+  "type": "registry:ui",
+  "dependencies": [],
+  "registryDependencies": [],
+  "files": [
+    {
+      "path": "components/ui/square-button.tsx",
+      "type": "registry:ui",
+      "target": "components/ui/square-button.tsx"
+    }
+  ],
+  "tailwind": {
+    "config": {}
+  }
+}

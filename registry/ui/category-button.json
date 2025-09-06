@@ -1,0 +1,23 @@
+{
+  "name": "category-button",
+  "type": "registry:ui",
+  "registryDependencies": [],
+  "files": [
+    {
+      "path": "components/ui/category-button.tsx",
+      "type": "registry:ui",
+      "target": "components/ui/category-button.tsx"
+    }
+  ],
+  "tailwind": {
+    "config": {
+      "theme": {
+        "extend": {
+          "fontFamily": {
+            "pretendard": ["Pretendard", "sans-serif"]
+          }
+        }
+      }
+    }
+  }
+}

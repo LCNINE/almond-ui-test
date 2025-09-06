@@ -1,0 +1,67 @@
+[
+  {
+    "name": "category-button",
+    "type": "registry:ui",
+    "files": ["registry/ui/category-button.json"]
+  },
+  {
+    "name": "checkbox",
+    "type": "registry:ui",
+    "files": ["registry/ui/checkbox.json"]
+  },
+  {
+    "name": "icon-button",
+    "type": "registry:ui",
+    "files": ["registry/ui/icon-button.json"]
+  },
+  {
+    "name": "square-button",
+    "type": "registry:ui",
+    "files": ["registry/ui/square-button.json"]
+  },
+  {
+    "name": "input",
+    "type": "registry:ui",
+    "files": ["registry/ui/input.json"]
+  },
+  {
+    "name": "radio-group",
+    "type": "registry:ui",
+    "files": ["registry/ui/radio-group.json"]
+  },
+  {
+    "name": "tabs",
+    "type": "registry:ui",
+    "files": ["registry/ui/tabs.json"]
+  },
+  {
+    "name": "rating",
+    "type": "registry:ui",
+    "files": ["registry/ui/rating.json"]
+  },
+  {
+    "name": "icon-text",
+    "type": "registry:ui",
+    "files": ["registry/ui/icon-text.json"]
+  },
+  {
+    "name": "section-title",
+    "type": "registry:ui",
+    "files": ["registry/ui/section-title.json"]
+  },
+  {
+    "name": "rounded-base-card",
+    "type": "registry:ui",
+    "files": ["registry/ui/rounded-base-card.json"]
+  },
+  {
+    "name": "image-wrapper",
+    "type": "registry:ui",
+    "files": ["registry/ui/image-wrapper.json"]
+  },
+  {
+    "name": "linked-wrapper",
+    "type": "registry:ui",
+    "files": ["registry/ui/linked-wrapper.json"]
+  }
+]

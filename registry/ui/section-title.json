@@ -1,0 +1,16 @@
+{
+  "name": "section-title",
+  "type": "registry:ui",
+  "dependencies": [],
+  "registryDependencies": [],
+  "files": [
+    {
+      "path": "components/ui/section-title.tsx",
+      "type": "registry:ui",
+      "target": "components/ui/section-title.tsx"
+    }
+  ],
+  "tailwind": {
+    "config": {}
+  }
+}

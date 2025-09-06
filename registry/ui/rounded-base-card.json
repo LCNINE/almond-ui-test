@@ -1,0 +1,19 @@
+{
+  "name": "rounded-base-card",
+  "type": "registry:ui",
+  "dependencies": [
+    "clsx",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "files": [
+    {
+      "path": "components/ui/rounded-base-card.tsx",
+      "type": "registry:ui",
+      "target": "components/ui/rounded-base-card.tsx"
+    }
+  ],
+  "tailwind": {
+    "config": {}
+  }
+}

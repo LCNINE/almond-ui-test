@@ -1,0 +1,19 @@
+{
+  "name": "image-wrapper",
+  "type": "registry:ui",
+  "dependencies": [
+    "clsx",
+    "tailwind-merge"
+  ],
+  "registryDependencies": [],
+  "files": [
+    {
+      "path": "components/ui/image-wrapper.tsx",
+      "type": "registry:ui",
+      "target": "components/ui/image-wrapper.tsx"
+    }
+  ],
+  "tailwind": {
+    "config": {}
+  }
+}

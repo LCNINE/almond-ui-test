@@ -1,0 +1,16 @@
+{
+  "name": "checkbox",
+  "type": "registry:ui",
+  "dependencies": [],
+  "registryDependencies": [],
+  "files": [
+    {
+      "path": "components/ui/checkbox.tsx",
+      "type": "registry:ui",
+      "target": "components/ui/checkbox.tsx"
+    }
+  ],
+  "tailwind": {
+    "config": {}
+  }
+}

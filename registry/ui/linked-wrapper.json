@@ -1,0 +1,16 @@
+{
+  "name": "linked-wrapper",
+  "type": "registry:ui",
+  "dependencies": [],
+  "registryDependencies": [],
+  "files": [
+    {
+      "path": "components/ui/linked-wrapper.tsx",
+      "type": "registry:ui",
+      "target": "components/ui/linked-wrapper.tsx"
+    }
+  ],
+  "tailwind": {
+    "config": {}
+  }
+}
