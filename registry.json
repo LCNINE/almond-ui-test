@@ -15,7 +15,7 @@
   ],
   "registries": {
     "almond-ui": {
-      "url": "https://raw.githubusercontent.com/LCNINE/almond-ui-test/main/registry"
+      "url": "https://raw.githubusercontent.com/LCNINE/almond-ui-test/main/registry/index.json"
     }
   },
   "tailwind": {
